@@ -21,4 +21,6 @@
 - [EX02-06](EX02_06_開眼電影.ipynb)
 - [EX02-07](EX02_07_KKDay_.ipynb)
 
-##03
+##03 Data Analysis
+- [EX03-01]()
+- 
