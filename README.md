@@ -22,5 +22,5 @@
 - [EX02-07](EX02_07_KKDay_.ipynb)
 
 ##03 Data Analysis
-- [EX03-01]()
+- [EX03-01](EX03_01_公司薪資概況Ⅰ.ipynb)
 - 
