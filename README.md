@@ -33,5 +33,5 @@
 - [HW03](hw03.ipynb)
 
 ##05 Web API
-- [EX05-01](EX05_01_Echo_Bot_.ipynb
+- [EX05-01](EX05_01_Echo_Bot_.ipynb)
 - [EX05-02](EX05_02_Ask_Gemini.ipynb)
