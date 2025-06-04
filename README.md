@@ -45,7 +45,6 @@
 - [EX05-02](EX05_02_Ask_Gemini.ipynb)
 - [EX05-03](EX05_03_Reply_Multi_type_Messages.ipynb)
 - [EX05-04](EX05_04_Reply_Template_Messages.ipynb)
-- [EX05-05]()
 
 ##期末報告
 -[期末專案](程式應用_專案報告.ipynb)
